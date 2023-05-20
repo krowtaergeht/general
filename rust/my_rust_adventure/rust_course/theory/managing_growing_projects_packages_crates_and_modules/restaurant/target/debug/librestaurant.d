@@ -1,0 +1,1 @@
+C:\Users\Matt\rust_course\theory\managing_growing_projects_packages_crates_and_modules\restaurant\target\debug\librestaurant.rlib: C:\Users\Matt\rust_course\theory\managing_growing_projects_packages_crates_and_modules\restaurant\src\lib.rs
